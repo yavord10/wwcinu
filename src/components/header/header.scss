@@ -64,3 +64,13 @@
     }
   }
 }
+
+@media (max-width: 500px) {
+  .header {
+    width: 100%;
+
+    &__nav {
+      font-size: 10px;
+    }
+  }
+}
