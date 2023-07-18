@@ -16,7 +16,7 @@ const Header = () => {
             <a href="https://twitter.com/WWCUPINU">Twitter</a>
           </li>
           <li>
-            <a href="https://t.me/officialwomensworldcupinu">Telegram</a>
+            <a href="https://t.me/WomensWCI">Telegram</a>
           </li>
           <li>
             <a href="https://etherscan.io/address/0xef9B378Aa82787331f879D3D421974F1792E6866">
