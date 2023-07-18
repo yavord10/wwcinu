@@ -28,12 +28,12 @@
   }
 
   &__img {
-    @include flex(flex-end, flex-start);
+    @include flex(flex-end, center);
 
     &__slide {
       height: 915px;
-      width: 915px;
-      overflow: hidden;
+      min-width: 1000px;
+      overflow: visible;
 
       canvas {
         display: block;
